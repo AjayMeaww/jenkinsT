@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/apachejmeter_core-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/java-client-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/java-client-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/java-client-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/jorphan-2.9.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/json-path-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/json-path-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/rest-assured-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/rest-assured-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/rest-assured-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/rest-assured-common-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/rest-assured-common-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/selenium-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/selenium-java-2.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/xml-path-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/LIB/LIB/xml-path-3.0.7-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

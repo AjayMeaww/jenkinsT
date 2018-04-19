@@ -1,2 +1,1 @@
-java -cp bin;lib/* org.testng.TestNG openpage.xml
-pause
+java -cp bin;https://github.com/elevenapps/testing-scripts/tree/master/Article/Lib/* org.testng.TestNG openpage.xml
